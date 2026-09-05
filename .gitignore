@@ -16,3 +16,4 @@ Thumbs.db
 
 # Large/generated files
 *.log
+holdout_eval.py
