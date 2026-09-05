@@ -1,0 +1,18 @@
+# Core data handling
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+lightgbm
+shap
+
+# API
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+
+# Environment variables
+python-dotenv
